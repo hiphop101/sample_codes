@@ -1,0 +1,52 @@
+body, html {
+    height: 100%;
+}
+
+.bg1 {
+    /* The image used */
+    background-image: url("https://cdn.thesimpledollar.com/wp-content/uploads/2015/02/personal-finance-rules.jpg");
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bg2 {
+    /* The image used */
+    background-image: url("https://www.aplaceformom.com/blog/wp-content/uploads/2016/02/14195746/caring-for-elderly-parents-estate-and-finances1.jpg");
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg3 {
+    /* The image used */
+    background-image: url("https://cdn.aarp.net/content/dam/aarp/home-and-family/family-and-friends/2015-04/1140-Personal-Finance-101.imgcache.rev90b9862ae157e826ef94c9bdcc0f82de.jpg");
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.transbox {
+    opacity: 0.8;
+    color: black;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+  }
+  
+.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: black;
+  }
